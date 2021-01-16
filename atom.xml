@@ -2,18 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lajiaojn12.github.io</id>
     <title>大智门</title>
-    <updated>2021-01-16T17:33:31.606Z</updated>
+    <updated>2021-01-16T17:43:36.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lajiaojn12.github.io"/>
     <link rel="self" href="https://lajiaojn12.github.io/atom.xml"/>
-    <subtitle>大勇若怯，大智若愚。</subtitle>
+    <subtitle>大勇若怯，大智若愚。
+欢迎来到辣椒酱的个人小站。</subtitle>
     <logo>https://lajiaojn12.github.io/images/avatar.png</logo>
     <icon>https://lajiaojn12.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大智门</rights>
     <entry>
         <title type="html"><![CDATA[Taste The Feeling~]]></title>
-        <id>https://lajiaojn12.github.io/post/art001/</id>
-        <link href="https://lajiaojn12.github.io/post/art001/">
+        <id>https://lajiaojn12.github.io/art001/</id>
+        <link href="https://lajiaojn12.github.io/art001/">
         </link>
         <updated>2021-01-12T00:20:00.000Z</updated>
         <summary type="html"><![CDATA[<p>20210112 外教课PPT 备份</p>
@@ -41,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[20210102 - 新线开通]]></title>
-        <id>https://lajiaojn12.github.io/post/new210102/</id>
-        <link href="https://lajiaojn12.github.io/post/new210102/">
+        <id>https://lajiaojn12.github.io/new210102/</id>
+        <link href="https://lajiaojn12.github.io/new210102/">
         </link>
         <updated>2021-01-02T02:56:00.000Z</updated>
         <summary type="html"><![CDATA[<p>武汉轨道交通8号线二期工程、11号线三期葛店段将于2021年1月2日上午10：56同步开通。届时，8号线二期工程与一、三期工程贯通运营，11号线三期葛店段与11号线贯通运营。</p>
@@ -57,8 +58,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Night Of Wuhan [9P]]]></title>
-        <id>https://lajiaojn12.github.io/post/view20210101/</id>
-        <link href="https://lajiaojn12.github.io/post/view20210101/">
+        <id>https://lajiaojn12.github.io/view20210101/</id>
+        <link href="https://lajiaojn12.github.io/view20210101/">
         </link>
         <updated>2021-01-01T13:01:38.000Z</updated>
         <summary type="html"><![CDATA[<p>新年好！</p>
@@ -78,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[无标题便是最好的标题]]></title>
-        <id>https://lajiaojn12.github.io/post/2020/</id>
-        <link href="https://lajiaojn12.github.io/post/2020/">
+        <id>https://lajiaojn12.github.io/2020/</id>
+        <link href="https://lajiaojn12.github.io/2020/">
         </link>
         <updated>2020-12-31T15:59:00.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>#辣椒酱的2020年终总结#</strong></p>
