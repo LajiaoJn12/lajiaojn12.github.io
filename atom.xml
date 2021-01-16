@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lajiaojn12.github.io</id>
     <title>大智门</title>
-    <updated>2021-01-02T10:56:04.040Z</updated>
+    <updated>2021-01-16T17:28:12.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lajiaojn12.github.io"/>
     <link rel="self" href="https://lajiaojn12.github.io/atom.xml"/>
@@ -10,6 +10,36 @@
     <logo>https://lajiaojn12.github.io/images/avatar.png</logo>
     <icon>https://lajiaojn12.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 大智门</rights>
+    <entry>
+        <title type="html"><![CDATA[Taste The Feeling~]]></title>
+        <id>https://lajiaojn12.github.io/post/taste-the-feeling~/</id>
+        <link href="https://lajiaojn12.github.io/post/taste-the-feeling~/">
+        </link>
+        <updated>2021-01-16T17:23:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>20210112 外教课PPT 备份</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>20210112 外教课PPT 备份</p>
+<!-- more -->
+<p><img src="https://lajiaojn12.github.io/post-images/1610817844965.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817850206.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817856187.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817863580.JPG" alt="" loading="lazy"><br>
+<a href="https://www.bilibili.com/video/BV1fs411Q7xf">视频在P6</a><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817867771.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817873406.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817877565.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817881789.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817885195.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817889106.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817892344.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817895695.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817899517.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817902952.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817906979.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817910458.JPG" alt="" loading="lazy"><br>
+<img src="https://lajiaojn12.github.io/post-images/1610817914601.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20210102 - 新线开通]]></title>
         <id>https://lajiaojn12.github.io/post/new210102/</id>
@@ -76,8 +106,8 @@
 <p><strong>辣椒酱</strong><br>
 2020.12.31 于 <a href="https://lajiaojn12.github.io/">大智门</a></p>
 <p>*文中真实地名、姓名已模糊处理。<br>
-**语言表达问题较多,请帮忙捉下虫，谢谢。<br>
-***2021.01.02 少许修改。</p>
+**语言表达问题较多，请帮忙捉下虫，谢谢。<br>
+***2021.01.17 少许修改。</p>
 ]]></content>
     </entry>
 </feed>
